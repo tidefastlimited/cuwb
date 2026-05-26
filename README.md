@@ -1,12 +1,16 @@
-# CUWB Mock Site
+# CUWB Demo Site
 
-A mock marketing site for [CUWB.io](https://www.cuwb.io/) — Ciholas's Ultra-Wideband real-time location system product. The site demonstrates what a content-depth and SEO authority strategy could look like for CUWB, based on the audit documented in [content-seo-cuwb.md](./content-seo-cuwb.md).
+A demo marketing site for [CUWB.io](https://www.cuwb.io/) — Ciholas's Ultra-Wideband real-time location system product. The site demonstrates what a content-depth and SEO authority strategy could look like for CUWB, based on the audit documented in [content-seo-cuwb.md](./content-seo-cuwb.md).
 
-The central argument of that audit: CUWB's technical substance is real, but it is packaged as product pages and documentation rather than as pages that match how buyers discover, compare, and justify RTLS purchases. This mock site builds out the missing content architecture — learn guides, technology comparisons, solution pages, deployment planning, and competitor comparison pages.
+The central argument of that audit: CUWB's technical substance is real, but it is packaged as product pages and documentation rather than as pages that match how buyers discover, compare, and justify RTLS purchases. This demo site builds out the missing content architecture — learn guides, technology comparisons, solution pages, deployment planning, and competitor comparison pages.
+
+## Live demo
+
+View the live demo site at [cuwb-5i5yi.ondigitalocean.app](https://cuwb-5i5yi.ondigitalocean.app).
 
 ## Introduction
 
-This is a **Next.js static mock site**, not connected to any CMS, backend, or real CUWB systems. All content is hardcoded and representative. It is a working prototype for evaluating page structure, information architecture, and content strategy — not a production codebase.
+This is a **Next.js static demo site**, not connected to any CMS, backend, or real CUWB systems. All content is hardcoded and representative. It is a working prototype for evaluating page structure, information architecture, and content strategy — not a production codebase.
 
 ## Site structure
 
