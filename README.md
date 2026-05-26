@@ -4,7 +4,7 @@ A mock marketing site for [CUWB.io](https://www.cuwb.io/) — Ciholas's Ultra-Wi
 
 The central argument of that audit: CUWB's technical substance is real, but it is packaged as product pages and documentation rather than as pages that match how buyers discover, compare, and justify RTLS purchases. This mock site builds out the missing content architecture — learn guides, technology comparisons, solution pages, deployment planning, and competitor comparison pages.
 
-## What this is
+## Introduction
 
 This is a **Next.js static mock site**, not connected to any CMS, backend, or real CUWB systems. All content is hardcoded and representative. It is a working prototype for evaluating page structure, information architecture, and content strategy — not a production codebase.
 
